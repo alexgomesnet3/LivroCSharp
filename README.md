@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="./images/book_c#_start.png" alt="Book: C# Start - André L M Campo" width="1280">
+  <img src="https://m.media-amazon.com/images/I/41hgom2sATL.jpg" alt="Book: C# Start - André L M Campo" width="1280">
 </p>
 
 <blockquote align="center">“Always evolving and learning more every day!”</blockquote>
