@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="./images/http_vuejs.png" alt="Book: C# Start - André L M Campo" width="1280">
+  <img src="book_c#_start.png" alt="Book: C# Start - André L M Campo" width="1280">
 </p>
 
 <blockquote align="center">“Always evolving and learning more every day!”</blockquote>
